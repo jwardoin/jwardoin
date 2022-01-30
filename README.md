@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### This section is coming soon
+
 <!--
 **jwardoin/jwardoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
