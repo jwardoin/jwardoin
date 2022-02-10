@@ -2,6 +2,12 @@
 
 ### This section is coming soon
 
+<!-- My name is Jordan, and I'm a software engineer with a focus in full-stack web development and cloud solutions
+
+You can find my portfolio at: <a href="https://jordanardoin.com">jordanardoin.com</a>
+You can check out my <a href="https://resume.jordanardoin.com">resume here</a> -->
+
+
 <!--
 **jwardoin/jwardoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
