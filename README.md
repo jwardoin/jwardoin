@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jordan Ardoin (Ar-dwahn like a duck)</h1>
+<h1 align="center">Hi 👋, I'm Jordan Ardoin</h1>
 <h3 align="center">A Software & Cloud Engineer passionate about solving unique and compelling problems</h3>
 
 - 🔭 I’m currently working on [MAA Invoicer](https://github.com/jwardoin/maa-invoicer)
